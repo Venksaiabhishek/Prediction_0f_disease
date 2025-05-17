@@ -71,12 +71,7 @@ The dataset used for training was provided during the **TechSaksham Internship P
 
 ## 🏆 Credits
 
-🔹 Developed by **Sabhya Rajvanshi**  
-🔹 Part of **TechSaksham AI Internship**  
+🔹 Developed by **Abhishek**  
 
----
 
-## ⭐ Contribute
-
-If you find this project useful, feel free to ⭐ star the repository and contribute!  
 
